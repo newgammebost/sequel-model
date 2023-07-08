@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Fix Multi-GPU resume bug (#7328)
