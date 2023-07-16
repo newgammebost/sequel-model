@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Add new YOLOv8 OBB model metrics (#7379)
