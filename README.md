@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
