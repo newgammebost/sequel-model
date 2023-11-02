@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix bbox2segment converter (#7814)
