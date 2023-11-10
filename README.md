@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
