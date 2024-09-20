@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Fix TypeError in check_cfg() (#9245)
